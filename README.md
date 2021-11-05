@@ -1,2 +1,2 @@
-# Exercicios em JavaScript
- Exercícios utilizando JavaScript, CSS e HTML5
+# Exercícios em JavaScript
+ Exercícios utilizando JavaScript, CSS e HTML5.
