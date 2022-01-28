@@ -1,0 +1,19 @@
+Descrição do projeto 
+
+O objetivo desse pequeno projeto é desenvolver um simulador de programa (aplicativo) de pedidos de um restaurante.
+
+Nesse sentido, a partir de uma página HTML, é disponibilizado uma área em que o usuário poderá selecionar algumas opções de comida e bebida. Essa área ficou definida como bloco 1, nomeada de "pedido".
+
+O bloco 2, nomeado de "comanda", é responsável por armazenar o pedido por completo. Ele é o equivalente ao pedido anotado pelo garçom ou até mesmo um resumo do pedido realizado pelo usuário no aplicativo. Desta maneira torna-se facilitada a vizulização do pedido por completo.
+
+O bloco 3, nomeado de "cozinha", é responsável por enviar as informações para o local em que o pedido será preparado. Conforme outros pedidos forem sendo solicitados, estes serão inseridos na tabela.
+
+
+Descrição Geral
+
+Esse projeto, em um primeiro momento, funciona como um esboço, um simples exemplo de uma ideia. O seu objetivo é praticar a entrada, captura e armazenamento de dados, utilizando HTML5, CSS e JavaScript. Além disso, busca-se praticar a utilização de tabelas em conjunto com os elementos da página HTML.
+
+Itens presentes na página:
+
+1) Formulário com inputs (comida e bebida)
+2) Botão para enviar as informações para a comanda e para a cozinha
